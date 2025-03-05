@@ -6,3 +6,5 @@ git add ./*/ nama file untuk menambahkan atau menandai file
 git commit untuk mengcommit atau save file dalam folder
 
 ini adalah belajar terminal dan git
+
+beajar git 2
