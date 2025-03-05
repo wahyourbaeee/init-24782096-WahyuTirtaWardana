@@ -10,3 +10,5 @@ ini adalah belajar terminal dan git
 beajar git 2
 
 git 5
+
+git6
